@@ -49,7 +49,7 @@ This repository provides reasonable defaults, so you can immediately get started
 > This is not fit for production usage; see below for the full guide.
 
 ```bash
-git clone https://github.com/revoltchat/self-hosted revolt
+git clone https://github.com/samjohn89/revolt-host revolt
 cd revolt
 cp .env.example .env
 docker compose up
